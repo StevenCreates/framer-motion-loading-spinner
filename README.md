@@ -9,7 +9,7 @@
 ### Resources
 
 - Article/Guide
-- https://medium.com/@steven_creates/how-to-create-a-loading-spinner-with-framer-motion-and-react-70ee6d48b325
+- https://javascript.plainenglish.io/how-to-create-a-loading-spinner-with-framer-motion-and-react-70ee6d48b325
 
 
 
