@@ -9,7 +9,7 @@
 ### Resources
 
 - Article/Guide
-- https://medium.com/@steven_creates/how-to-create-an-animated-countdown-timer-with-framer-motion-and-react-75035d13309c
+- https://javascript.plainenglish.io/how-to-create-a-loading-spinner-with-framer-motion-and-react-70ee6d48b325
 
 
 
